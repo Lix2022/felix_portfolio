@@ -75,8 +75,8 @@ const handleDownloadCV = () => {
 };
 
 const openPdfInNewTab = () => {
-  const pdfUrl = `${window.location.origin}/felix_portfolio/pdfs/cv.pdf`; // Use the full path including the GitHub Pages base path
-  window.open(pdfUrl, '_blank'); // Opens in a new tab
+  const pdfUrl = process.env.PUBLIC_URL + '/pdfs/cv.pdf';
+  window.open(pdfUrl, '');
 };
 
 
