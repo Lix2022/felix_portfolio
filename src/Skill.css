@@ -1,0 +1,9 @@
+/* Skills.css */
+.animate__fadeInDown {
+    opacity: 0; /* Initially hide the element */
+  }
+  
+  .animate__fadeInDown.animate__animated {
+    animation: fadeInDown 1s; /* Use the correct animation name and duration */
+  }
+  
