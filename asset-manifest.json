@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/felix_portfolio/static/css/main.4018a0d7.css",
-    "main.js": "/felix_portfolio/static/js/main.9a3c490f.js",
+    "main.js": "/felix_portfolio/static/js/main.9ecf76a6.js",
     "static/js/511.745fc82b.chunk.js": "/felix_portfolio/static/js/511.745fc82b.chunk.js",
     "static/media/contact_image.png": "/felix_portfolio/static/media/contact_image.26aad9558277ce33d469.png",
+    "static/media/project-img4.png": "/felix_portfolio/static/media/project-img4.619c92ced5b4d6386a6a.png",
+    "static/media/project-img5.png": "/felix_portfolio/static/media/project-img5.ec4729f1be7602b9ec97.png",
     "static/media/banner.png": "/felix_portfolio/static/media/banner.88dd0eb23ff5b2c72f22.png",
     "static/media/finanze2.png": "/felix_portfolio/static/media/finanze2.d3718650c7b4988f1b76.png",
     "static/media/yamaha.png": "/felix_portfolio/static/media/yamaha.b98d9ebf865264134028.png",
@@ -53,11 +55,11 @@
     "static/media/nav-icon1.svg": "/felix_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/felix_portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.4018a0d7.css.map": "/felix_portfolio/static/css/main.4018a0d7.css.map",
-    "main.9a3c490f.js.map": "/felix_portfolio/static/js/main.9a3c490f.js.map",
+    "main.9ecf76a6.js.map": "/felix_portfolio/static/js/main.9ecf76a6.js.map",
     "511.745fc82b.chunk.js.map": "/felix_portfolio/static/js/511.745fc82b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4018a0d7.css",
-    "static/js/main.9a3c490f.js"
+    "static/js/main.9ecf76a6.js"
   ]
 }
