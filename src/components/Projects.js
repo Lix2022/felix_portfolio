@@ -3,6 +3,8 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
+import projImg4 from "../assets/img/project-img4.png";
+import projImg5 from "../assets/img/project-img5.png";
 //import colorSharp2 from "../assets/img/color-sharp2.png";
 
 import kerporformerImg1 from "../assets/img/graphicsDesign/indvidual.png";
@@ -53,6 +55,20 @@ export const Projects = () => {
       imgUrl: projImg3,
       description: "Visit Site",
       linkUrl: "https://sewsewbarbershop.glixdev.site"
+
+    },
+      {
+      title: "InComEnergo LLP",
+      imgUrl: projImg4,
+      description: "Visit Site",
+      linkUrl: "https://incomenergo.com"
+
+    },
+      {
+      title: "Entrümpel Express",
+      imgUrl: projImg5,
+      description: "Visit Site",
+      linkUrl: "https://entruempel-express.de"
 
     },
    
